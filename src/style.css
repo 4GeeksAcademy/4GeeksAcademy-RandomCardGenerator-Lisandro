@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#PaloAbajo {
+  rotate: 180deg;
+}
+
+.carta {
+  border-radius: 20px;
+}
